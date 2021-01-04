@@ -1,0 +1,14 @@
+C:\Users\Acer\AppData\Local\Temporary Projects\IcoConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\AppData\Local\Temporary Projects\IcoConverter\obj\x86\Debug\IcoConverter.Form1.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\IcoConverter\obj\x86\Debug\IcoConverter.Properties.Resources.resources
+C:\Users\Acer\AppData\Local\Temporary Projects\IcoConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\AppData\Local\Temporary Projects\IcoConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\bin\Debug\IcoConverter.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\bin\Debug\IcoConverter.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\IcoConverter.Form1.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\IcoConverter.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\IcoConverter.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Debug\IcoConverter.pdb

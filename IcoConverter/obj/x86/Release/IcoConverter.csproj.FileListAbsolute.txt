@@ -1,0 +1,9 @@
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\bin\Release\IcoConverter.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\bin\Release\IcoConverter.pdb
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\IcoConverter.Form1.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\IcoConverter.Properties.Resources.resources
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\IcoConverter.exe
+C:\Users\Acer\documents\visual studio 2010\Projects\IcoConverter\IcoConverter\obj\x86\Release\IcoConverter.pdb
